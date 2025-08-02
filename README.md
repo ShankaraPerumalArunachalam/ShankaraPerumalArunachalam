@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-I am a web developer with the knowledge of bootstrap.
+🎯 I’m a Frontend Developer specialized in React.js, Tailwind CSS, and modern UI/UX development. Currently building high-performance apps using TypeScript, Node.js, and MongoDB.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [idofshankar@gmail.com](mailto:idofshankar@gmail.com)
@@ -34,6 +34,12 @@ src="https://img.shields.io/github/followers/ShankaraPerumalArunachalam?logo=git
 <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
 <a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
 </p>
+
+### 🚀 Current Projects
+
+- 🎨 Personal Portfolio (React + Tailwind + Framer Motion)  
+- ✍️ DevBlog App (React + Node + JWT Auth)  
+- 📊 Admin Dashboard (React + Zustand + Recharts)  
 
 
 ### Socials
